@@ -13,7 +13,7 @@
 
 ### - I'm Glory, Welcome to my GitHub, My pleasure to share technology with you.
 
-<img hight="200" width="500" alt="GIF" align="right" src="https://github.com/Glory1020/Glory1020/blob/main/assets/5132.gif">
+<img hight="500" width="500" alt="GIF" align="right" src="https://github.com/Glory1020/Glory1020/blob/main/assets/15682.gif">
 
 ### - Learning :
 - ✨ Java Python SpringBoot Mysql NodeJs...
