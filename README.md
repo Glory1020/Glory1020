@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Glory1020/Glory1020/blob/main/resources/镜流.mp4">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Glory1020/Glory1020/blob/main/assets/35467.gif">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - I'm Glory, Welcome to my GitHub, My pleasure to share technology with you.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Glory1020/Glory1020/blob/main/resources/申鹤.mp4">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Glory1020/Glory1020/blob/main/assets/5132.gif">
 
 ### - Learning :
 - ✨ Java Python SpringBoot Mysql NodeJs...
