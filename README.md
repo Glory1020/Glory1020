@@ -1,4 +1,4 @@
-# Konichiwa 👋
+# Konichiwa 👋 : 
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Glory1020/Glory1020/blob/main/assets/35467.gif">
@@ -16,8 +16,8 @@
 <img hight="500" width="500" alt="GIF" align="right" src="https://github.com/Glory1020/Glory1020/blob/main/assets/15682.gif">
 
 ### - Learning :
-- ✨ Java Python SpringBoot Mysql NodeJs...
-- ✨ Full stack development
+- ✨ play the game of life.
+- ✨ pleasure myself.
 
 ### - Hobbies : 
 - ✨ Gaming Addict
@@ -31,7 +31,7 @@
 
 
 
-# Languages & Tools 🛠:
+# Languages & Tools 🛠 : 
 </br>
 
 <p align="center">
@@ -56,7 +56,7 @@
 
 
 
-# Contact Me 💬 :
+# Contact Me 💬 : 
 
 <p>
  </br>
